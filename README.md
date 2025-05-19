@@ -14,7 +14,7 @@ The PCB is designed so it (hopefully) fits all ST models incl. the Mega ST.
 <img src="/pictures/components.jpg" width="400"/>
 
 1. PCB - order e.g. from JLCPCB
-2. VGA connector (female)
+2. VGA connector female (*)
 3. 3.5mm audio plug mono (female)
 4. 13pin DIN - ST monitor connector (male)
 5. 4P2T slide switch - 12pin 2 position
@@ -25,7 +25,7 @@ The PCB is designed so it (hopefully) fits all ST models incl. the Mega ST.
 8. capacitor 10nF (optional)
 9. capacitor 470pF (optional)
 
-   
+<sup>(*) the PCB has been designed so that normal plugs as used in connector cables can be used. Panel mount connectors would probably have been the "better" solution but I wasn't aware of those when I designed the PCB.</sup> 
 
 ## Building the adapter
 
