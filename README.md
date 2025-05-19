@@ -17,13 +17,13 @@ The PCB is designed so it (hopefully) fits all ST models incl. the Mega ST.
 2. VGA connector female (*)
 3. 3.5mm audio plug mono (female)
 4. 13pin DIN - ST monitor connector (male)
-5. 4P2T slide switch - 12pin 2 position
+5. 4P2T slide switch - 12pin 2 position, 2mm 
 6. 3x resistor 75Ohm 
     1. depending on ST model and monitor, the best value can be somewhere between 0 and 100 Ohms
     2. optional: variable resistor
 7. 3D printed spacer for monitor plug (optional)
-8. capacitor 10nF (optional)
-9. capacitor 470pF (optional)
+8. capacitor 10nF (optional), 2.5mm
+9. capacitor 470pF (optional), 2.5mm
 
 <sup>(*) the PCB has been designed so that normal plugs as used in connector cables can be used. Panel mount connectors would probably have been the "better" solution but I wasn't aware of those when I designed the PCB.</sup> 
 
