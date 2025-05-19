@@ -1,4 +1,4 @@
-# ST-to-VGA - a cheap and simple adapter to connect your ST to a (15.6kHz compatible) VGA monitor
+# ST-to-VGA - a cheap and simple adapter to connect your Atari ST to a (15.6kHz compatible) VGA monitor - with mono/colour switch
 
 ST-to-VGA is an adapter to connect a VGA monitor to an Atari ST and switch between colour and monochrome modes. The VGA monitor needs to support a vertical frequency of 15.6kHz. 
 A list of supported monitors can be found here: [http://15khz.wikidot.com/](https://15khz.miraheze.org)
