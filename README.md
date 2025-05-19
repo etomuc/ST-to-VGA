@@ -11,7 +11,7 @@ The PCB is designed so it (hopefully) fits all ST models incl. the Mega ST.
 
 ## The components
 
-<img src="/pictures/components.jpg" width="500"/>
+<img src="/pictures/components.jpg" width="400"/>
 
 1. PCB - order e.g. from JLCPCB
 2. VGA connector (female)
@@ -31,17 +31,25 @@ The PCB is designed so it (hopefully) fits all ST models incl. the Mega ST.
 
 Solder all components except for the monitor connector from the upper side of the PCB. Take special care with the VGA connector as there is very little spacing between the through-holes and using e.g. excessive soldering paste can lead to shorts.
 
-<img src="/pictures/1.jpg" width="500"/>
+<img src="/pictures/1.jpg" width="250"/>
 
-<img src="/pictures/1a.jpg" width="500"/>
-<sup>option: with variable resistors</sup>
-
+<sub>option: with variable resistors</sub><br/>
+<img src="/pictures/1a.jpg" width="250"/>
 
 Solder the monitor connector from the other side. You can add a 3D printed spacer to gain 1 or 2 mm distance from the STs case. This is optional but can be helpful if the adapter is later put into a 3D printed case. 
 
-<img src="/pictures/2.jpg"/><img src="/pictures/3.jpg"/><img src="/pictures/5.jpg"/>
+<img src="/pictures/2.jpg" width="250"/> <img src="/pictures/3.jpg" width="250"/> <img src="/pictures/5.jpg" width="250"/>
 
 Make sure to keep the pins on this side as short as possible, especially if you want to put it into the 3D case:
-<img src="/pictures/4.jpg"/>
+<img src="/pictures/4.jpg" width="250"/>
 
 ## 3D printed case
+
+<sub>optional support for connector screws:</sub><br/>
+<img src="/pictures/case1.jpg" width="400"/>
+
+
+<img src="/pictures/case2.jpg" width="250"/>
+
+<sub>without and with hole to access variable resistors:</sub><br/>
+<img src="/pictures/case3.jpg" width="400"/>
